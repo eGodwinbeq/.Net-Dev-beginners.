@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\apps\\.net\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "D:\\apps\\.net\\ConsoleApps\\ConsoleAppOne\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\apps\\.net\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "D:\\apps\\.net\\ConsoleApps\\ConsoleAppOne\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\apps\\.net\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "D:\\apps\\.net\\ConsoleApps\\ConsoleAppOne\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "D:\\apps\\.net\\ConsoleApps\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "D:\\apps\\.net\\ConsoleApps\\ConsoleAppOne\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\GODWIN\\.nuget\\packages\\",
-        "outputPath": "D:\\apps\\.net\\ConsoleApps\\ConsoleApp1\\obj\\",
+        "outputPath": "D:\\apps\\.net\\ConsoleApps\\ConsoleAppOne\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\GODWIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

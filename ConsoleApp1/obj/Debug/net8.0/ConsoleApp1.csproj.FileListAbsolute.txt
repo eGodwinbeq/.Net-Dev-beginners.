@@ -26,3 +26,18 @@ D:\apps\.net\New folder\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
 D:\apps\.net\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
 D:\apps\.net\New folder\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 D:\apps\.net\New folder\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\apps\.net\ConsoleApps\ConsoleAppOne\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
